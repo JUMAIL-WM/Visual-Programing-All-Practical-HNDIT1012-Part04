@@ -1,0 +1,11 @@
+C:\Users\Futuremind\Desktop\SMSProject\Activity 06\Activity 06\bin\Debug\Activity 06.exe.config
+C:\Users\Futuremind\Desktop\SMSProject\Activity 06\Activity 06\bin\Debug\Activity 06.exe
+C:\Users\Futuremind\Desktop\SMSProject\Activity 06\Activity 06\bin\Debug\Activity 06.pdb
+C:\Users\Futuremind\Desktop\SMSProject\Activity 06\Activity 06\obj\Debug\Activity 06.csproj.AssemblyReference.cache
+C:\Users\Futuremind\Desktop\SMSProject\Activity 06\Activity 06\obj\Debug\Activity 06.csproj.SuggestedBindingRedirects.cache
+C:\Users\Futuremind\Desktop\SMSProject\Activity 06\Activity 06\obj\Debug\Activity_06.Form1.resources
+C:\Users\Futuremind\Desktop\SMSProject\Activity 06\Activity 06\obj\Debug\Activity_06.Properties.Resources.resources
+C:\Users\Futuremind\Desktop\SMSProject\Activity 06\Activity 06\obj\Debug\Activity 06.csproj.GenerateResource.cache
+C:\Users\Futuremind\Desktop\SMSProject\Activity 06\Activity 06\obj\Debug\Activity 06.csproj.CoreCompileInputs.cache
+C:\Users\Futuremind\Desktop\SMSProject\Activity 06\Activity 06\obj\Debug\Activity 06.exe
+C:\Users\Futuremind\Desktop\SMSProject\Activity 06\Activity 06\obj\Debug\Activity 06.pdb
